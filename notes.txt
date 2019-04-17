@@ -1,0 +1,3 @@
+CTRL+/ = Add comment
+CTRL+\ = split screen
+CTRL++ / CTRL+- = +/- font size
